@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Syne+Tactile&display=swap');
+
+body{
+    background-color: rgb(168, 221, 186);
+}
+
+.Koostisosad {
+    border: 1px solid rgb(42, 141, 180);
+    width: 40%;
+    margin: 0 auto;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    color: rgb(105, 88, 88);
+    font-family: 'Syne Tactile', cursive;
+    font-size: 23px;
+}
+
+.Koostisosad-tabel {
+    border: 2px solid black;
+    margin: 0 auto;
+    margin-left: 1rem;
+}
+
+.juhendid {
+    border: 1px solid black;
+    width: 40%;
+    margin: 0 auto;
+}
+
+.juhendid ol {
+    margin: 0 auto;
+    width: 90%;
+    margin-left: 1rem;
+    font-size: 20px;
+}
+
+.koostisosad {
+    color: rgb(218, 233, 17);
+}
+
+.kogus {
+    color: green;
+}
+
+.pilt {
+    width: 40%;
+}
